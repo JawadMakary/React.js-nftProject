@@ -69,9 +69,10 @@
 }
 
 .loginButton {
-  background-color: #1c1c1e;
+  background: linear-gradient(to right, #59f9b7, #66feea);
   padding: 15px 40px;
   border-radius: 50px;
-  color: white;
-  font-weight: 600;
+  cursor: pointer;
+  color: #000;
+  font-weight: 500;
 }

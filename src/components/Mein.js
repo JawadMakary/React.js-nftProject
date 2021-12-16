@@ -38,7 +38,7 @@ function Mein({ selectedHero, heroListData }) {
               <div className="ownerNameAndHandle">
                 <div>{activeHero.owner.address}</div>
                 <div className="ownerHandle">
-                  @AleksRG <img src={check} height="13px" />
+                  @Progess Click <img src={check} height="13px" />
                 </div>
               </div>
               <div className="ownerLink">
